@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14375" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/drawable/arrow_forward.xml" value="0.14375" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/drawable/cash_progress.xml" value="0.14375" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/drawable/credit_progress.xml" value="0.14375" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/drawable/empty_progress.xml" value="0.14375" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/drawable/error.xml" value="0.14375" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.14375" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/calendar_day_layout.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/cardlist_item.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/fragment_add_transaction.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/list_item.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/menu/profile_top.xml" value="0.12760416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
