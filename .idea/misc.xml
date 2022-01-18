@@ -11,10 +11,20 @@
         <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/drawable/error.xml" value="0.14375" />
         <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.14375" />
         <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/calendar_day_layout.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/calendar_day_layout.xml" value="0.264" />
         <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/cardlist_item.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/fragment_add_transaction.xml" value="0.25052083333333336" />
-        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/list_item.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/fragment_calendar.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/fragment_home.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/fragment_monthly_expense.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/fragment_onboarding.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/fragment_profile.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/month_card.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/set_balance_info.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/layout/spinner_item.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/menu/add_fragment_top.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/menu/home_fragment_top.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/zawadi.kenga/AndroidStudioProjects/Fintech2/app/src/main/res/menu/profile_top.xml" value="0.12760416666666666" />
       </map>
     </option>

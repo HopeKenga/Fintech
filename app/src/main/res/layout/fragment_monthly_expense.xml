@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_height="match_parent"
     android:layout_width="match_parent"
-    android:background="@color/blush"
+    android:background="@color/blue"
     android:orientation="vertical">
 
     <com.google.android.material.appbar.AppBarLayout
@@ -31,6 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
+        android:textColor="@color/color_white"
         android:text="NET BALANCE"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -42,6 +43,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="8dp"
+        android:textColor="@color/color_white"
         android:text="NA"
         android:textSize="30sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -67,6 +69,7 @@
 
     <TextView
         android:id="@+id/amount_saved_label"
+        android:textColor="@color/color_white"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -80,6 +83,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
+        android:textColor="@color/color_white"
         android:text="AMOUNT SPENT"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/amount_saved_label" />
@@ -90,6 +94,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="8dp"
+        android:textColor="@color/color_white"
         android:text="25000.00"
         android:textSize="24sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -101,6 +106,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="16dp"
+        android:textColor="@color/color_white"
         android:text="15000.00"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -112,6 +118,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
+        android:textColor="@color/color_white"
         android:text="TRANSACTIONS THIS MONTH"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/amount_saved" />

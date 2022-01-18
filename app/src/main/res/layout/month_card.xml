@@ -7,10 +7,11 @@
     android:layout_margin="4dp"
     app:cardCornerRadius="10dp"
     app:cardElevation="10dp"
-    android:background="@color/blush"
+    android:background="@color/color_white"
     app:strokeWidth="5dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
+        android:background="@color/blue"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -30,6 +31,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
+            android:background="@color/rod"
             android:text="VIEW ALL "
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@id/arrow_forward" />
@@ -65,6 +67,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
+            android:textColor="@color/color_white"
             android:text="JUNE"
             android:textSize="24sp"
             app:layout_constraintStart_toStartOf="parent"
@@ -85,6 +88,7 @@
             android:id="@+id/year_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="@color/color_white"
             android:text=" 2020"
             android:textSize="24sp"
             app:layout_constraintStart_toEndOf="@+id/month_name"
